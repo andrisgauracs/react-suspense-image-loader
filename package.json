@@ -1,0 +1,29 @@
+{
+  "name": "react-suspense-lazy-image-loader",
+  "version": "0.1.0",
+  "private": true,
+  "license": "(MIT OR Apache-2.0)",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-cache": "^2.0.0-alpha.1",
+    "react-dom": "^16.6.3",
+    "react-inview-monitor": "^2.2.0",
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
